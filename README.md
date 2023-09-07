@@ -4,7 +4,7 @@ About LUMIO:
 The LUMIO Discord Bot is a new and innovative bot that promises to serve the necessary functions of a Discord server that also simultaneously adds some interesting features! There are a variety of features, including: 
 
 Administrative Tools 
-![alt text](http://(https://www.pngwing.com/en/free-png-bmufx)/to/img.png)
+(http://(https://www.pngwing.com/en/free-png-bmufx)/to/img.png)
 
 Minigames 
 Community Building Activities
