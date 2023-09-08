@@ -2,6 +2,8 @@
 
 The LUMIO Bot Information
 
+![Lumio Discord Logo ](https://github.com/yunweili/LUMIOBot/assets/66052222/0890be6b-644a-4c2f-b117-a2ea31a9105d)
+
 About LUMIO:
 
 The LUMIO Discord Bot is a new and innovative bot that promises to serve the necessary functions of a Discord server that also simultaneously adds some interesting features! For more information about our services and features, make sure to check out the information down below for an outline of the LUMIO bot and all of it’s qualities.
