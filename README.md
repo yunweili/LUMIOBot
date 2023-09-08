@@ -10,6 +10,8 @@ There are a variety of features, including:
 
 Administrative Tools - Tools to help you moderate and operate your server.
 
+![7hRi4](https://github.com/yunweili/LUMIOBot/assets/66052222/9e913dc7-1aa4-4033-b874-e89cf6010641)
+
 Minigames - Minigames to help you have fun with your server and ensure that everyone has an opportunity to have fun.
 
 Community Building Activities - A variety of community building activities to form a bond between members of your server.
